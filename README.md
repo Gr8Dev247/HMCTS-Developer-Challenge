@@ -78,7 +78,7 @@ A full-stack task management system built for HMCTS caseworkers to efficiently m
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Gr8Dev247/HMCTS-Task-Management-System.git
+git clone https://github.com/Gr8Dev247/HMCTS-Developer-Challenge.git
 ```
 
 ### 2. Install Dependencies
